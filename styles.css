@@ -1,0 +1,60 @@
+h1 {
+  color: #046eff;
+  margin: 0;
+}
+.container {
+  width: 100%;
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+.temperature {
+  font-size: 45px;
+  line-height: 1;
+}
+.weather-emoji-main {
+  font-size: 45px;
+  line-height: 1;
+}
+.weather-emoji {
+  font-size: 30px;
+}
+.recent-city {
+  background-color: #046eff;
+  color: white;
+  margin: 0 0 25px;
+}
+.weekday {
+  font-size: 25px;
+  color: darkblue;
+}
+.temperature-5day {
+  font-size: 25px;
+  color: darkblue;
+}
+weather-app {
+  border: 1px solid #71757d;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 630px;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+}
+.units {
+  position: relative;
+  top: -34px;
+}
+.search-form {
+  margin-bottom: 20px;
+}
